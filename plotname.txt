@@ -1,0 +1,667 @@
+ADAU A
+ADAUM A
+AIT A
+AUEB A
+Aalto A
+Auth A
+BBU A
+BBU B
+BCN-DS A
+BDS A
+BGU A
+BGU B
+BGU C
+BOUN A
+BOUN B
+BRIS A
+BRIS B
+BUDS A
+Bauman A
+Belgrade A
+Belgrade B
+Belgrade C
+Berlin  A
+Berlin  B
+Berlin  C
+Bucharest A
+CBS  A
+CMUQ A
+Cambridge A
+Cambridge B
+Cambridge C
+CardiffUni A
+Coimbra A
+Coimbra B
+Colman A
+Colman B
+DCGA A
+DCGA B
+DCH A
+DCJG A
+DEREE A
+DEREE B
+DGJ A
+Durham A
+Durham B
+Durham C
+EDS A
+EDS B
+Edinburgh A
+Edinburgh B
+GSU A
+GUU A
+GUU B
+GUU C
+HDS A
+HDS B
+Haifa A
+Haifa B
+Haifa C
+Haifa D
+Hebrew A
+Hebrew B
+Hebrew C
+Hull A
+Hull B
+IDC A
+IDC B
+IDC C
+Imperial A
+Imperial B
+InEU A
+Inner Temple
+KCL  A
+KCL  B
+KDP UJ A
+KDP UJ B
+Kalliope A
+Koc A
+Koc B
+Kutafin  A
+LDU A
+LDU B
+LDU C
+LEIDEN A
+LEIDEN B
+LEIDEN C
+LIV A
+LMU A
+LMU B
+LMU C
+LSE A
+LSE B
+LSE C
+LiU A
+Ljubljana A
+Ljubljana B
+Lund U A
+Lund U B
+MAI A
+MDU A
+MDU B
+MDU C
+METU A
+MGIMO A
+MGIMO B
+MIPT A
+MIPT B
+Maastricht A
+Maastricht B
+Meg  A
+NCH A
+NTU Deb A
+NTUA A
+NUDS A
+NUDS B
+NUIG A
+Nazarbayev A
+OpenU A
+OpenU B
+Oxford A
+Oxford B
+Oxford C
+Oxford D
+PEP A
+PORTO A
+PORTO B
+Paris 5 A
+PrishtinaR A
+RDS A
+RDS B
+RDU A
+RRIS A
+RRIS B
+RRIS C
+SKT A
+SOAS A
+SOAS B
+SOAS C
+SPbU A
+SSE Riga A
+SSE Riga B
+SWING A
+SWING B
+SgUni A
+SgUni B
+Sheff A
+Sheff B
+St Andrews A
+St Andrews B
+St Andrews C
+Stockholm A
+Stockholm B
+Stockholm C
+Strathclyde A
+Strathclyde B
+TCD Hist A
+TCD Hist B
+TCD Hist C
+TCD Phil A
+TCD Phil B
+TCD Phil C
+TU  A
+TU  B
+Tampere A
+Technion A
+Technion B
+Tel Aviv A
+Tel Aviv B
+Tel Aviv C
+Telecom A
+Tilbury A
+Tilbury B
+Tilbury C
+UCC Law A
+UCC Law B
+UCC Phil A
+UCC Phil B
+UCC Phil C
+UCD L&amp;H A
+UCD L&amp;H B
+UCD LawSoc A
+UCD LawSoc B
+UCL A
+UCL B
+UCL C
+UDS A
+UDS B
+UDS C
+UKI A
+UKIM A
+ULU A
+ULU B
+Uni-UP A
+UoA A
+UoA B
+UoB A
+UoB B
+UoB C
+UoM A
+UoM B
+UoN A
+UoN B
+UoN C
+UoN D
+W-Minst A
+Warsaw A
+Warwick A
+Warwick B
+Warwick C
+Warwick D
+Y.U. A
+Y.U. B
+York A
+York B
+ZDU A
+Zagreb Law A
+arts A
+ASDV Bonaparte A
+ASDV Bonaparte B
+Aalto A
+Aalto B
+Adam Mickiewicz Pozna A
+Adam Mickiewicz Pozna B
+Adam Mickiewicz Pozna C
+Athens University of Economics and Business A
+BSEU A
+Babes Bolyai University A
+Barcelona Debating Society A
+Barcelona Debating Society B
+Bath University Debating Society A
+Bauman Moscow State Technical University A
+Belgrade A
+Belgrade B
+Belgrade C
+Belgrade D
+Ben Gurion University A
+Ben Gurion University B
+Ben Gurion University C
+Berlin A
+Berlin B
+Berlin C
+BiTS Debating Society A
+BiTS Debating Society B
+Birmingham A
+Birmingham B
+Birmingham C
+Birmingham D
+Bogazici University A
+Bogazici University B
+Bristol A
+Bucharest A
+Cambridge A
+Cambridge B
+Cambridge C
+Cambridge D
+Central European Debating A
+Centrale Debating A
+Copenhagen Business School A
+Debating Club Heidelberg A
+Debattierclub Bayreuth A
+Debattierclub Georgia Augusta A
+Debattierclub Hamburg A
+Debattierclub Hamburg B
+Debattierclub Hannover A
+Debattierclub Johannes Gutenberg Mainz A
+Debattierklub Wien A
+Debattierklub Wien B
+Debattierklub Wien C
+Debattierklub Wien D
+Dnipropetrovsk A
+Durham A
+Durham B
+Durham C
+Durham D
+ELTE A
+Edinburgh A
+Edinburgh B
+Erasmus Debating Society A
+Galatasaray University A
+Galatasaray University B
+Glasgow University Union A
+Glasgow University Union B
+Glasgow University Union C
+HSE Moscow A
+Haifa A
+Haifa B
+Hebrew University of Jerusalem A
+Hebrew University of Jerusalem B
+Hebrew University of Jerusalem C
+Helsinki Debating Society A
+Hull A
+IDC Herzliya A
+IDC Herzliya B
+Imperial College London A
+Imperial College London B
+Inner Temple A
+Jagiellonian University A
+Jagiellonian University B
+Jena A
+Jena B
+John Naisbitt University A
+KCL A
+KCL B
+KIMEP University A
+Karazin Kharkiv National University A
+Kiel A
+Koç A
+Kyiv NUCA A
+LSE A
+LSE B
+LSE C
+LSE D
+Lancaster Debating Union A
+Lancaster Debating Union B
+Leiden A
+Leiden B
+Leiden C
+Leiden D
+Liverpool A
+Liverpool B
+Ljubljana A
+Ljubljana B
+Lund A
+Lund B
+METU A
+MGIMO A
+MGIMO B
+Malmo A
+Manchester Debating Union A
+Manchester Debating Union B
+Manchester Debating Union C
+Masaryk University A
+Middlesex University A
+Munich Debating Society A
+Munich Debating Society B
+Munich Debating Society C
+NUIG A
+National Technical University of Athens A
+National Technical University of Athens B
+Nazarbayev University A
+Newcastle University Debating Society A
+Nottingham A
+Nottingham B
+Nottingham C
+Open University of Israel A
+Open University of Israel B
+Oxford A
+Oxford B
+Oxford C
+Oxford D
+PEP A
+Pavlodar A
+RWTH Aachen A
+Raphael Recanati International School A
+Raphael Recanati International School B
+SOAS A
+SOAS B
+SSE Riga A
+Sciences Po Paris A
+Sciences Po Paris B
+Singidunum University A
+Singidunum University B
+Sofia University A
+St. Andrews A
+St. Andrews B
+St. Andrews C
+Stockholm A
+Stockholm B
+Stockholm C
+Stockholm D
+Strathclyde A
+Strathclyde B
+Streitkultur A
+Streitkultur B
+Streitkultur C
+Swansea A
+Swing A
+Swing B
+Swing C
+Swing D
+TCD Hist A
+TCD Hist B
+TCD Hist C
+TCD Phil A
+TCD Phil B
+TCD Phil C
+TCD Phil D
+Talinn A
+Taras Shevchenko National University of Kyiv A
+Tartu A
+Tartu B
+Technion A
+Technion B
+Tel Aviv A
+Tel Aviv B
+Tel Aviv C
+Tel Aviv D
+The American College of Greece A
+The College of Management Academic Studies A
+The College of Management Academic Studies B
+Tilburg A
+Tilburg B
+Tilbury House A
+Tilbury House B
+Tilbury House C
+Trivium Student Debating Nijmegen A
+Turan A
+UCC Law A
+UCC Law B
+UCC Philosoph A
+UCC Philosoph B
+UCC Philosoph C
+UCD L&amp;H A
+UCD L&amp;H B
+UCD L&amp;H C
+UCD Law A
+UCD Law B
+UCD Law C
+ULU A
+ULU B
+Universidad Autónoma de Madrid A
+Universidade Católica Porto A
+Universidade de Coimbra A
+University College London A
+University College London B
+University College London C
+University Ss. Cyril and Methodius A
+University of Athens A
+University of Athens B
+University of Customs and Finance A
+University of Sheffield A
+University of Southampton A
+University of Westminster A
+University of York A
+University of York B
+University of Zagreb Debating Society A
+Utrecht Debating Society A
+VSE A
+Wageningen A
+Warsaw A
+Warwick A
+Warwick B
+Warwick C
+Yeditepe A
+Yeditepe B
+Zagreb Faculty of Law A
+Zeppelin University Friedrichshafen A
+AUEB A
+Aalto A
+Aberdeen A
+BGU A
+BGU B
+BPP A
+Bar Ilan A
+Bard A
+Bath A
+Belgrade A
+Belgrade B
+Belgrade C
+Berlin A
+Berlin B
+Berlin C
+Berlin D
+Bilkent A
+Birmingham A
+Birmingham B
+Birmingham C
+Birmingham D
+Bogazici A
+Bogazici B
+Bogazici C
+Bonaparte A
+Bonaparte B
+Bonaparte C
+Bristol A
+Bristol B
+Bristol C
+CBS A
+CDC A
+CU A
+Cambridge A
+Cambridge B
+Cambridge C
+Cambridge D
+Cambridge E
+Cardiff A
+Cicero A
+Cicero B
+Colman A
+Colman B
+Comillas A
+DFU A
+DK Bayreuth A
+Delft A
+Deree A
+Durham A
+Durham B
+Durham C
+ELTE A
+Edinburgh A
+Edinburgh B
+Edinburgh C
+Erasmus A
+Erasmus B
+GUU A
+GUU B
+GUU C
+Galatasaray A
+Galatasaray B
+HSE Moscow A
+Haifa A
+Haifa B
+Haifa C
+Hebrew A
+Hebrew B
+Hebrew C
+Heidelberg A
+Heidelberg B
+Helsinki A
+IDC A
+IDC B
+IDC C
+Imperial A
+Imperial B
+Inner Temple A
+Inner Temple B
+Jagiellonian A
+Jena
+KCL A
+KCL B
+KCL C
+KFU A
+KNEU A
+KNU A
+Kiel A
+Koc A
+Koc B
+Kozminski A
+LSE A
+LSE B
+LSE C
+Lancaster A
+Leiden A
+Leiden B
+Leiden C
+Leiden D
+Liverpool A
+Liverpool B
+Liverpool C
+Ljubljana A
+Lund A
+METU A
+MGIMO A
+MGIMO B
+MGIMO C
+MRU A
+Maastricht A
+Maastricht B
+Mainor A
+Manchester A
+Manchester B
+Manchester C
+Maynooth A
+Middle Temple
+Middlesex A
+Middlesex B
+Munich A
+Munich B
+Munich CA
+Munich VY
+NLU A
+NTUA A
+NUIG A
+NUIG B
+NYUAD
+Nazarbayev A
+Nazarbayev B
+Newcastle A
+Newcastle B
+Nottingham A
+Nottingham B
+Nottingham C
+Odessa A
+OpenU A
+OpenU B
+OpenU C
+Oxford A
+Oxford B
+Oxford C
+Oxford D
+Oxford E
+PEP A
+Porto A
+Qatar A
+Qatar B
+RRIS A
+RRIS B
+RRIS C
+Riga A
+Riga B
+SOAS A
+Saarvoir Vivre A
+Sheffield A
+Southampton A
+Southampton B
+St Andrews A
+St Andrews B
+Stockholm A
+Stockholm B
+Strathclyde A
+Strathclyde B
+Streitkultur A
+Streitkultur B
+Swansea A
+TCD Hist A
+TCD Hist B
+TCD Hist C
+TCD Hist D
+TCD Phil A
+TCD Phil B
+TCD Phil C
+Tartu A
+Tartu B
+Tartu C
+Tartu D
+Team A
+Team C
+Team D
+Team E
+Technion A
+Technion B
+Tel Aviv A
+Tel Aviv B
+Tel Aviv C
+Tel Aviv D
+Trivium A
+UAM A
+UCC Philosoph A
+UCC Philosoph B
+UCC Philosoph C
+UCD L&amp;H A
+UCD L&amp;H B
+UCD L&amp;H C
+UCD Law A
+UCD Law B
+UCD Law C
+UCL A
+UCL B
+UCL C
+UFV 2
+UFV1
+Utrecht A
+Vienna A
+Vienna B
+Vienna C
+Vienna D
+Warsaw A
+Warwick B
+Warwick C
+Wuppertal A
+Yeditepe A
+Yeditepe B
+York A
+York B
+Zagreb A
+Zagreb B
+Zagreb C

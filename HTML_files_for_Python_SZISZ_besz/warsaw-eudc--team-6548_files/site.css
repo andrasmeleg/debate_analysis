@@ -1,0 +1,534 @@
+.clear {
+    clear: both;
+}
+
+.text-gray {
+    color: #777;
+}
+
+.not-set {
+    display: none;
+}
+
+.help_popup {
+    display: none;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    outline: none;
+    background: white;
+    text-align: right;
+    font-size: 100px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    cursor: inherit;
+}
+
+/* Pagination CENTER HACK */
+.pagination {
+    display: table;
+    margin: 20px auto;
+}
+
+.kv-panel-pager .pagination {
+    margin: 0 auto;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    padding-top: 50px;
+}
+
+body.movedown {
+    padding-top: 100px;
+}
+
+.swingIndicator {
+    top: -3px;
+    font-weight: bold;
+    font-size: 105%;
+}
+
+/** BOOTSTRAP HACKS **/
+
+.navbar-brand > img {
+    float: left;
+    margin-top: -10px;
+    width: 40px;
+}
+
+.navbar-sub .navbar-brand {
+    overflow: hidden;
+}
+
+/* Give me full with! */
+@media (min-width: 1300px) {
+    .container {
+        width: 1300px !important;
+    }
+}
+
+.alert {
+    background-image: -webkit-repeating-linear-gradient(-65deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%);
+    background-image: -moz-repeating-linear-gradient(-65deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%);
+    background-image: -ms-repeating-linear-gradient(-65deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%);
+    background-image: -o-repeating-linear-gradient(-65deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%);
+    background-image: repeating-linear-gradient(-65deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%);
+    background-size: 30px 60px;
+}
+
+@media (max-width: 767px) {
+    .tournament_title h1 {
+        margin-top: 0;
+    }
+
+    .debate-teams .team:nth-of-type(4) {
+        border: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .debate-teams .team:nth-of-type(3), .debate-teams .team:nth-of-type(4) {
+        border: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar .navbar-header, .navbar-sub .navbar-header {
+        display: none;
+    }
+
+    .nav > li > a {
+        padding: 15px 7px !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .navbar-sub .navbar-header {
+        width: 230px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    .navbar-sub .navbar-header {
+        width: 332px;
+    }
+
+}
+
+/***********************/
+
+.navbar.navbar-sub {
+    top: 50px;
+}
+
+.nav-tabs {
+    margin-bottom: 20px;
+}
+
+.wrap {
+    position: relative;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+    min-height: 100%;
+    height: auto;
+}
+
+.wrap > .container {
+    padding: 20px 15px 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    padding-top: 20px;
+    width: 100%;
+    height: 60px;
+    border-top: 1px solid #ddd;
+    background-color: #f5f5f5;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 21px;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    padding-left: 5px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Glyphicons Halflings';
+    line-height: 1;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.form-group.required .control-label:after {
+    color: #C00;
+    content: " *";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    margin: 0 0 15px 0;
+    padding: 10px 20px;
+    border-left: 3px solid #eed3d7;
+    background: #fdf7f7;
+    color: #a94442;
+}
+
+.flashes {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1040;
+}
+
+.flashes .alert {
+    margin: 0;
+    padding: 14px;
+    width: 100%;
+    border-radius: 0;
+    text-align: center;
+}
+
+.flashes div.alert:last-of-type {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.site-checkin .msg {
+    padding: 30px;
+    font-size: 25px;
+}
+
+#tournament-missing .table td {
+    padding: 3px;
+}
+
+#team-table-container b {
+    text-decoration: underline;
+}
+
+.kv-grid-table td ul {
+    margin-bottom: 0;
+}
+
+.kv-panel-pager {
+    min-height: 0;
+    text-align: center;
+}
+
+.kv-grid-table .empty {
+    text-align: center;
+    font-size: 123%;
+    line-height: 250%;
+}
+
+.debate-teams .team {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #CCC;
+}
+
+.debate-teams .team:nth-of-type(even) {
+    text-align: right;
+}
+
+.debate-teams .panel-body {
+    padding: 0 15px;
+}
+
+.btn-group-justified > .btn, .btn-group-justified > .btn-group {
+    width: 100%;
+}
+
+/***** Tournament *******/
+
+.site-index .tournaments .tournament {
+    overflow: hidden;
+    height: 200px;
+}
+
+#tournament_title {
+    margin: 0 0;
+}
+
+.balance-frame {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #AAAAAA;
+    border-radius: 3px;
+}
+
+.tournament-index .tournament {
+    margin: 20px 5px;
+    padding: 20px;
+    border: #DDD 1px solid;
+    border-radius: 8px;
+}
+
+.tournament-index .tournament h2 {
+
+}
+
+.tournament-index .tournament .details {
+    padding-top: 23px;
+}
+
+.tournament-search .buttons {
+    padding-top: 25px;
+}
+
+#team-table-container {
+    position: relative;
+}
+
+#drawdisplay {
+    position: absolute;
+    top: 10%;
+}
+
+/****** RESULT ******/
+
+.result-form input {
+    position: absolute;
+    right: 20px;
+    display: inline-block;
+    width: auto;
+}
+
+.result-confirm input {
+    position: absolute;
+    right: 20px;
+    display: inline-block;
+    width: auto;
+}
+
+#debates.list-view .venue {
+    margin: 10px 0;
+}
+
+#debates.list-view .venue .status {
+    float: left;
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.status.entered {
+    background: green;
+}
+
+.status.missing {
+    background: yellow;
+}
+
+.slider .tooltip.top {
+    margin-top: -40px;
+}
+
+.slider .tooltip-inner {
+    white-space: nowrap;
+    font-size: 16px;
+}
+
+.slider.slider-horizontal {
+    margin-top: 30px;
+    width: 100%;
+    height: 24px;
+}
+
+.tab-team-container h3, .tab-speaker-container h3 {
+    margin-top: 0;
+}
+
+/** LOADER */
+#loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999999;
+    display: none;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.98);
+}
+
+#loader .container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    -ms-flex-align: center;
+    height: 100%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+#loader img {
+    position: relative;
+    max-width: 250px;
+    max-height: 250px;
+    width: 100%;
+    border-radius: 40px;
+}
+
+.feedback-create input[type=checkbox] {
+    /* All browsers except webkit*/
+    margin-right: 10px;
+
+    /* Webkit browsers*/
+    margin-left: 20px;
+    -webkit-transform: scale(2.5);
+    transform: scale(2.5);
+}
+
+.result-index .panel-body {
+    padding: 0px;
+}
+
+.result-index .panel-heading {
+    padding: 4px 15px;
+}
+
+.checkboxlist label {
+    line-height: 30px;
+}
+
+.motion_group .info {
+    margin-bottom: 10px;
+}
+
+.tags {
+    margin: 0px 0 15px 0;
+    text-align: center;
+}
+
+.tags:after {
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.tags a {
+    margin: 2px 3px;
+    padding: 0 3px;
+}
+
+.tags .s0 {
+    font-size: 100%;
+}
+
+.tags .s1 {
+    font-size: 120%;
+}
+
+.tags .s2 {
+    font-size: 140%;
+}
+
+.tags .s3 {
+    font-size: 160%;
+}
+
+.tags .s4 {
+    font-size: 180%;
+}
+
+.tags .s5 {
+    font-size: 200%;
+}
+
+.debate-history .us {
+    background-color: #FFF8D9;
+}
+
+.btn-group .btn + .btn {
+	margin-left: 0;
+}
+
+.btn-group-justified > .btn-group .btn {
+	width: inherit;
+}
+
+.btn-group-justified > .btn-group.splitbutton .dropdown-menu {
+	right: 0px !important;
+	min-width: 100%;
+	text-align: justify;
+}
+
+.import-table .green {
+    background-color: #DDFFDD;
+}
+
+.import-table .yellow {
+    background-color: #FFFFAA;
+}
+
+.table.slim th, .table.slim td {
+    padding: 2px;
+}
